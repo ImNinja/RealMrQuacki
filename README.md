@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/2054184/screenshots/5426945/computer-flat-design.gif" width="500"/>
+  <img src="https://i.kym-cdn.com/photos/images/newsfeed/000/971/242/261.gif" width="500"/>
 </div>
